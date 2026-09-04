@@ -1,2 +1,2 @@
-# mariameljouzou-mariameljouzou.github.io
+# mariameljouzou.github.io
 This is my public portfolio. 
