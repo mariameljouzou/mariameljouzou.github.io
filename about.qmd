@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hi! I'm Mariam El Jouzou, a graduate student in Applied Business Analytics at Boston University with a professional background in marketing.
+
+I enjoy connecting data to business and understanding how insights can be used to support better decisions and solve real-world challenges. Through my graduate studies, I'm continuing to build my technical and analytical skills and explore new ways to apply data in a business setting.

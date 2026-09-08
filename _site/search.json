@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mariam El Jouzou",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi! I’m Mariam, a graduate student in Applied Business Analytics at Boston University.\nThis portfolio is a space for me to share some of the projects and work I’ve completed throughout my program, while building my skills in analytics and learning how data can be used to solve real business problems."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Mariam El Jouzou",
+    "section": "",
+    "text": "Hi! I’m Mariam, a graduate student in Applied Business Analytics at Boston University.\nThis portfolio is a space for me to share some of the projects and work I’ve completed throughout my program, while building my skills in analytics and learning how data can be used to solve real business problems."
+  },
+  {
+    "objectID": "index.html#about-this-portfolio",
+    "href": "index.html#about-this-portfolio",
+    "title": "Mariam El Jouzou",
+    "section": "About This Portfolio",
+    "text": "About This Portfolio\nThroughout my coursework, I’ve had the opportunity to work with tools such as Python, SQL, GitHub, and AWS and explore different areas of data analytics and business decision making."
+  },
+  {
+    "objectID": "index.html#python-in-practice",
+    "href": "index.html#python-in-practice",
+    "title": "Mariam El Jouzou",
+    "section": "Python in Practice",
+    "text": "Python in Practice\nIn a previous course, I used Python and SQL to analyze business data, including sales trends and performance. Here is a simple example of using Python to summarize monthly sales:\n\nmonthly_sales = [12500, 14800, 13200, 15600, 17100]\naverage_sales = sum(monthly_sales) / len(monthly_sales)\n\nprint(f\"Average Monthly Sales: ${average_sales:,.2f}\")\n\nAverage Monthly Sales: $14,640.00"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! I’m Mariam El Jouzou, a graduate student in Applied Business Analytics at Boston University with a professional background in marketing.\nI enjoy connecting data to business and understanding how insights can be used to support better decisions and solve real-world challenges. Through my graduate studies, I’m continuing to build my technical and analytical skills and explore new ways to apply data in a business setting."
   }
 ]

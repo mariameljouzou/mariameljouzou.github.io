@@ -2,6 +2,24 @@
 title: "Mariam El Jouzou"
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! I'm Mariam, a graduate student in Applied Business Analytics at Boston University.
+
+This portfolio is a space for me to share some of the projects and work I've completed throughout my program, while building my skills in analytics and learning how data can be used to solve real business problems.
+
+## About This Portfolio
+
+Throughout my coursework, I've had the opportunity to work with tools such as Python, SQL, GitHub, and AWS and explore different areas of data analytics and business decision making.
+
+
+## Python in Practice
+
+In a previous course, I used Python and SQL to analyze business data, including sales trends and performance. Here is a simple example of using Python to summarize monthly sales:
+
+```{python}
+monthly_sales = [12500, 14800, 13200, 15600, 17100]
+average_sales = sum(monthly_sales) / len(monthly_sales)
+
+print(f"Average Monthly Sales: ${average_sales:,.2f}")
+```
