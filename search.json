@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Hi! I’m Mariam El Jouzou, a graduate student in Applied Business Analytics at Boston University with a professional background in marketing.\nI enjoy connecting data to business and understanding how insights can be used to support better decisions and solve real-world challenges. Through my graduate studies, I’m continuing to build my technical and analytical skills and explore new ways to apply data in a business setting."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mariam El Jouzou",
@@ -33,5 +26,12 @@
     "title": "Mariam El Jouzou",
     "section": "Python in Practice",
     "text": "Python in Practice\nIn a previous course, I used Python and SQL to analyze business data, including sales trends and performance. Here is a simple example of using Python to summarize monthly sales:\n\nmonthly_sales = [12500, 14800, 13200, 15600, 17100]\naverage_sales = sum(monthly_sales) / len(monthly_sales)\n\nprint(f\"Average Monthly Sales: ${average_sales:,.2f}\")\n\nAverage Monthly Sales: $14,640.00"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! I’m Mariam El Jouzou, a graduate student in Applied Business Analytics at Boston University with a professional background in marketing.\nI enjoy connecting data to business and understanding how insights can be used to support better decisions and solve real-world challenges. Through my graduate studies, I’m continuing to build my technical and analytical skills and explore new ways to apply data in a business setting."
   }
 ]
