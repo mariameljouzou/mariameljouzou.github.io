@@ -1,0 +1,44 @@
+---
+title: ""
+---
+
+<div class="page-shell">
+
+<div class="page-eyebrow">EXPERIENCE</div>
+
+# Curriculum Vitae
+
+My professional background combines marketing, eCommerce, patient support programs, and an expanding specialization in applied business analytics.
+
+<div class="cv-panel">
+
+<div>
+
+## Mariam El Jouzou
+
+**Senior Account Executive, Client Engagement**
+
+Healthcare & Pharmaceutical Marketing · Patient Support
+
+**MS Applied Business Analytics Candidate**  
+Boston University
+
+My experience spans eCommerce strategy, digital content, account management, Amazon advertising, SEO, healthcare marketing, and data-driven business decision-making.
+
+</div>
+
+<div class="cv-actions">
+
+[Download CV ↓](assets/Mariam-El-Jouzou-CV.pdf){.btn .btn-primary target="_blank"}
+
+[LinkedIn ↗](https://www.linkedin.com/in/mariam-eljouzou){.btn .btn-soft target="_blank"}
+
+</div>
+
+</div>
+
+<div class="cv-note">
+This portfolio reflects my current professional and academic direction. My CV includes additional detail on my experience, education, certifications, and skills.
+</div>
+
+</div>

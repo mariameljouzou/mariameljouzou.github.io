@@ -1,7 +1,76 @@
 ---
-title: "About Me"
+title: ""
 ---
 
-Hi! I'm Mariam El Jouzou, a graduate student in Applied Business Analytics at Boston University with a professional background in marketing.
+<div class="page-shell">
 
-I enjoy connecting data to business and understanding how insights can be used to support better decisions and solve real-world challenges. Through my graduate studies, I'm continuing to build my technical and analytical skills and explore new ways to apply data in a business setting.
+<div class="page-eyebrow">ABOUT</div>
+
+# Connecting patient support, healthcare marketing, and analytics.
+
+I’m Mariam El Jouzou, a marketing professional working in the healthcare and pharmaceutical space, with a focus on patient support initiatives.
+
+My current work has given me the opportunity to support complex, cross-functional programs designed to improve the patient experience across the treatment journey. I work closely with cross-functional teams to help bring patient-facing communications and support resources to life.
+
+Before moving into healthcare and pharmaceutical marketing, my background was rooted in eCommerce and digital marketing, where I worked across content strategy, SEO, Amazon advertising, digital shelf optimization, and performance-driven growth.
+
+That combination of experiences shaped the direction I want to continue building toward: using analytics to strengthen how we understand patients, customers, markets, and business performance.
+
+## Why Business Analytics
+
+<div class="story-card">
+
+I chose Applied Business Analytics because I believe in the power of data to make strategy more informed and marketing more meaningful.
+
+In healthcare and patient support, decisions are rarely isolated. They involve understanding behavior, identifying barriers, evaluating engagement, and determining where communication or support can create the most value.
+
+I want to build the analytical skills that allow me to connect those business and patient questions with data — not only to understand **what is happening**, but also **why it is happening, what it means, and what we should do next**.
+
+</div>
+
+## Where my experience comes together
+
+<div class="skill-grid">
+
+<div class="skill-block">
+<span class="skill-icon">＋</span>
+
+### Patient Support
+Supporting patient-facing initiatives across healthcare and pharmaceutical programs.
+</div>
+
+<div class="skill-block">
+<span class="skill-icon">◇</span>
+
+### Client & Brand Strategy
+Translating complex needs across clients, teams, and stakeholders into clear execution.
+</div>
+
+<div class="skill-block">
+<span class="skill-icon">⌁</span>
+
+### Analytics
+Building skills in Python, SQL, PySpark, cloud analytics, machine learning, and statistical analysis.
+</div>
+
+</div>
+
+## My Perspective
+
+I’m especially interested in the intersection of patient experience, pharmaceutical marketing, and analytics.
+
+For me, the value of analytics is not simply in producing an output. It is in using evidence to ask better questions, understand people more clearly, and support smarter decisions.
+
+## Currently
+
+<div class="current-card">
+
+**Senior Account Executive**  
+Healthcare & Pharmaceutical Marketing · Patient Support
+
+**MS Applied Business Analytics Candidate**  
+Boston University
+
+</div>
+
+</div>

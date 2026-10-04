@@ -1,25 +1,268 @@
 ---
-title: "Mariam El Jouzou"
+title: ""
+page-layout: full
 ---
 
-## Welcome
+<div class="hero-shell">
 
-Hi! I'm Mariam, a graduate student in Applied Business Analytics at Boston University.
+<div class="hero-grid">
 
-This portfolio is a space for me to share some of the projects and work I've completed throughout my program, while building my skills in analytics and learning how data can be used to solve real business problems.
+<div class="hero-content">
 
-## About This Portfolio
+<div class="hero-eyebrow">PHARMA · MARKETING · ANALYTICS</div>
 
-Throughout my coursework, I've had the opportunity to work with tools such as Python, SQL, GitHub, and AWS and explore different areas of data analytics and business decision making.
+# Mariam El Jouzou
+
+<div class="hero-copy">
+I combine digital marketing, pharmaceutical marketing, client strategy, and analytics to turn complex business and patient needs into clearer decisions.
+</div>
+
+<div class="hero-role">
+Senior Account Executive<br>
+MS Applied Business Analytics Candidate · Boston University
+</div>
+
+<div class="hero-actions">
+
+[Explore My Work →](projects.qmd){.btn .btn-primary}
+
+[About Me](about.qmd){.btn .btn-soft}
+
+</div>
+
+<div class="quick-access">
+
+<a href="mailto:maryamjouzou@gmail.com" class="quick-link">
+<span class="quick-icon">✉</span>
+<span>Email</span>
+</a>
+
+<a href="https://www.linkedin.com/in/mariam-eljouzou" target="_blank" class="quick-link">
+<span class="quick-icon">in</span>
+<span>LinkedIn</span>
+</a>
+
+<a href="https://github.com/mariameljouzou" target="_blank" class="quick-link">
+<span class="quick-icon">&lt;/&gt;</span>
+<span>GitHub</span>
+</a>
+
+<a href="contact.qmd" class="quick-link">
+<span class="quick-icon">＋</span>
+<span>Contact</span>
+</a>
+
+</div>
+
+<div class="hero-tags">
+<span>♡ Patient Support</span>
+<span>＋ Pharma</span>
+<span>▥ Analytics</span>
+<span>Python</span>
+<span>SQL</span>
+<span>AWS</span>
+</div>
+
+</div>
+
+<div class="hero-visual">
+
+<div class="portrait-backdrop"></div>
+
+<div class="portrait-card">
+<img src="assets/images/mariam-portrait.png"
+     alt="Portrait of Mariam El Jouzou"
+     class="hero-portrait">
+</div>
+
+<div class="floating-card floating-one">
+<div class="floating-icon">♡</div>
+<div class="floating-label">Patient Support</div>
+</div>
+
+<div class="floating-card floating-two">
+<div class="floating-icon">▥</div>
+<div class="floating-label">Analytics</div>
+</div>
+
+<div class="floating-card floating-three">
+<div class="floating-icon">◎</div>
+<div class="floating-label">Strategy</div>
+</div>
+
+<div class="signal signal-one"></div>
+<div class="signal signal-two"></div>
+<div class="signal-node node-one"></div>
+<div class="signal-node node-two"></div>
+<div class="signal-node node-three"></div>
+
+</div>
+
+</div>
+
+</div>
 
 
-## Python in Practice
+<div class="section-wrap">
 
-In a previous course, I used Python and SQL to analyze business data, including sales trends and performance. Here is a simple example of using Python to summarize monthly sales:
+<div class="journey-intro">
 
-```{python}
-monthly_sales = [12500, 14800, 13200, 15600, 17100]
-average_sales = sum(monthly_sales) / len(monthly_sales)
+<div>
 
-print(f"Average Monthly Sales: ${average_sales:,.2f}")
-```
+<div class="page-eyebrow">WHERE MY EXPERIENCE MEETS ANALYTICS</div>
+
+## A connected journey
+
+</div>
+
+<div class="journey-intro-copy">
+My background has always been rooted in understanding customers, brands, markets, and business performance. Graduate study in Applied Business Analytics has given me new ways to approach those same questions using data.
+</div>
+
+</div>
+
+<div class="journey journey-modern">
+
+<div class="journey-item">
+<div class="journey-bubble journey-bubble-one">◌</div>
+<div class="journey-number">01</div>
+
+### Marketing
+
+Built a foundation in brand strategy, customer engagement, digital marketing, and campaign execution.
+</div>
+
+<div class="journey-line"></div>
+
+<div class="journey-item">
+<div class="journey-bubble journey-bubble-two">▢</div>
+<div class="journey-number">02</div>
+
+### eCommerce
+
+Worked across Amazon, digital shelf, SEO, content strategy, advertising, and performance-driven growth.
+</div>
+
+<div class="journey-line"></div>
+
+<div class="journey-item">
+<div class="journey-bubble journey-bubble-three">▥</div>
+<div class="journey-number">03</div>
+
+### Analytics
+
+Now expanding that commercial perspective through Python, SQL, cloud analytics, machine learning, and statistical analysis.
+</div>
+
+</div>
+
+
+## What I focus on
+
+<div class="focus-bento">
+
+<div class="focus-card focus-large focus-healthcare">
+<div class="icon-box">＋</div>
+
+### Healthcare & Pharma
+
+Bringing marketing experience across healthcare, pharmaceutical brands, and patient support initiatives.
+
+<div class="focus-meta">Healthcare · Pharma · Patient Support</div>
+</div>
+
+<div class="focus-card focus-large focus-analytics">
+<div class="icon-box">↗</div>
+
+### Business Analytics
+
+Using data to uncover patterns, answer business questions, and support stronger decisions.
+
+<div class="focus-meta">Python · SQL · Cloud Analytics · Machine Learning</div>
+</div>
+
+<div class="focus-card focus-small focus-marketing">
+<div class="icon-box">✦</div>
+
+### Marketing & eCommerce
+
+Connecting performance, consumer behavior, content, and commercial strategy.
+</div>
+
+<div class="focus-card focus-small focus-strategy">
+<div class="icon-box">◇</div>
+
+### Strategy & Insights
+
+Translating analytical findings into recommendations that add value for business stakeholders.
+</div>
+
+</div>
+
+
+## Selected work
+
+<div class="featured-project">
+
+<div>
+
+### Labor Market & Career Analytics
+
+**Big Data & Cloud Analytics · Boston University**
+
+Analyzed large-scale job posting data to evaluate career pathways, occupational demand, salary trends, and skill requirements using cloud-based analytics tools.
+
+<div class="mini-tags">
+<span>Python</span>
+<span>PySpark</span>
+<span>SQL</span>
+<span>AWS</span>
+<span>Quarto</span>
+</div>
+
+</div>
+
+<div class="featured-action">
+
+[View Project →](https://jennader.github.io/METAD688_Group2/){.text-link}
+
+</div>
+
+</div>
+
+[View all projects →](projects.qmd){.section-link}
+
+<div class="home-contact">
+
+<div class="home-contact-copy">
+
+<div class="page-eyebrow">LET’S CONNECT</div>
+
+## Have a question, idea, or opportunity?
+
+I’m always open to connecting with people working across pharma, healthcare, marketing, analytics, eCommerce, and strategy.
+
+</div>
+
+<div class="home-contact-actions">
+
+<a href="mailto:maryamjouzou@gmail.com" class="home-contact-link">
+<span class="home-contact-icon">✉</span>
+<span>Email me</span>
+</a>
+
+<a href="https://www.linkedin.com/in/mariam-eljouzou" target="_blank" class="home-contact-link">
+<span class="home-contact-icon">in</span>
+<span>LinkedIn</span>
+</a>
+
+<a href="https://github.com/mariameljouzou" target="_blank" class="home-contact-link">
+<span class="home-contact-icon">&lt;/&gt;</span>
+<span>GitHub</span>
+</a>
+
+</div>
+
+</div>
+
+</div>

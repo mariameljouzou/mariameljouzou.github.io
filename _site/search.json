@@ -1,37 +1,100 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "EXPERIENCE\n\n\n\nMy professional background combines marketing, eCommerce, patient support programs, and an expanding specialization in applied business analytics.\n\n\n\nSenior Account Executive, Client Engagement\nHealthcare & Pharmaceutical Marketing · Patient Support\nMS Applied Business Analytics Candidate\nBoston University\nMy experience spans eCommerce strategy, digital content, account management, Amazon advertising, SEO, healthcare marketing, and data-driven business decision-making.\n\n\nDownload CV ↓\nLinkedIn ↗\n\n\n\nThis portfolio reflects my current professional and academic direction. My CV includes additional detail on my experience, education, certifications, and skills."
+  },
+  {
+    "objectID": "cv.html#mariam-el-jouzou",
+    "href": "cv.html#mariam-el-jouzou",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Senior Account Executive, Client Engagement\nHealthcare & Pharmaceutical Marketing · Patient Support\nMS Applied Business Analytics Candidate\nBoston University\nMy experience spans eCommerce strategy, digital content, account management, Amazon advertising, SEO, healthcare marketing, and data-driven business decision-making."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mariam El Jouzou",
     "section": "",
-    "text": "Hi! I’m Mariam, a graduate student in Applied Business Analytics at Boston University.\nThis portfolio is a space for me to share some of the projects and work I’ve completed throughout my program, while building my skills in analytics and learning how data can be used to solve real business problems."
+    "text": "PHARMA · MARKETING · ANALYTICS\n\n\n\n\nI combine digital marketing, pharmaceutical marketing, client strategy, and analytics to turn complex business and patient needs into clearer decisions.\n\n\nSenior Account Executive MS Applied Business Analytics Candidate · Boston University\n\n\nExplore My Work →\nAbout Me\n\n\n ✉ Email \n in LinkedIn \n &lt;/&gt; GitHub \n ＋ Contact \n\n\n♡ Patient Support ＋ Pharma ▥ Analytics Python SQL AWS\n\n\n\n\n\n\n\n\n\n\n\n\n♡\n\n\nPatient Support\n\n\n\n\n▥\n\n\nAnalytics\n\n\n\n\n◎\n\n\nStrategy"
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
+    "objectID": "index.html#a-connected-journey",
+    "href": "index.html#a-connected-journey",
     "title": "Mariam El Jouzou",
+    "section": "A connected journey",
+    "text": "A connected journey"
+  },
+  {
+    "objectID": "index.html#what-i-focus-on",
+    "href": "index.html#what-i-focus-on",
+    "title": "Mariam El Jouzou",
+    "section": "What I focus on",
+    "text": "What I focus on\n\n\n\n＋\n\n\nHealthcare & Pharma\nBringing marketing experience across healthcare, pharmaceutical brands, and patient support initiatives.\n\nHealthcare · Pharma · Patient Support\n\n\n\n\n\n↗\n\n\nBusiness Analytics\nUsing data to uncover patterns, answer business questions, and support stronger decisions.\n\nPython · SQL · Cloud Analytics · Machine Learning\n\n\n\n\n\n✦\n\n\nMarketing & eCommerce\nConnecting performance, consumer behavior, content, and commercial strategy.\n\n\n\n\n◇\n\n\nStrategy & Insights\nTranslating analytical findings into recommendations that add value for business stakeholders."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Mariam El Jouzou",
+    "section": "Selected work",
+    "text": "Selected work\n\n\nLabor Market & Career Analytics\nBig Data & Cloud Analytics · Boston University\nAnalyzed large-scale job posting data to evaluate career pathways, occupational demand, salary trends, and skill requirements using cloud-based analytics tools.\n\nPython PySpark SQL AWS Quarto\n\n\n\nView Project →\n\n\nView all projects →\n\n\n\nLET’S CONNECT\n\n\nHave a question, idea, or opportunity?\nI’m always open to connecting with people working across pharma, healthcare, marketing, analytics, eCommerce, and strategy.\n\n\n\n ✉ Email me \n in LinkedIn \n &lt;/&gt; GitHub"
+  },
+  {
+    "objectID": "index.html#have-a-question-idea-or-opportunity",
+    "href": "index.html#have-a-question-idea-or-opportunity",
+    "title": "Mariam El Jouzou",
+    "section": "Have a question, idea, or opportunity?",
+    "text": "Have a question, idea, or opportunity?\nI’m always open to connecting with people working across pharma, healthcare, marketing, analytics, eCommerce, and strategy."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Let’s connect.",
     "section": "",
-    "text": "Hi! I’m Mariam, a graduate student in Applied Business Analytics at Boston University.\nThis portfolio is a space for me to share some of the projects and work I’ve completed throughout my program, while building my skills in analytics and learning how data can be used to solve real business problems."
+    "text": "CONTACT\n\n\nLet’s connect.\nI’m always open to connecting with professionals working across analytics, marketing, eCommerce, healthcare, strategy, and related fields.\n\n\n\nin\n\n\nLinkedIn\nMy preferred platform for professional networking.\nConnect on LinkedIn →\n\n\n\n\n&lt;/&gt;\n\n\nGitHub\nExplore my academic and analytics work.\nView GitHub →\n\n\n\n\n✉\n\n\nEmail\nFor professional inquiries or collaboration.\nEmail me →"
   },
   {
-    "objectID": "index.html#about-this-portfolio",
-    "href": "index.html#about-this-portfolio",
-    "title": "Mariam El Jouzou",
-    "section": "About This Portfolio",
-    "text": "About This Portfolio\nThroughout my coursework, I’ve had the opportunity to work with tools such as Python, SQL, GitHub, and AWS and explore different areas of data analytics and business decision making."
-  },
-  {
-    "objectID": "index.html#python-in-practice",
-    "href": "index.html#python-in-practice",
-    "title": "Mariam El Jouzou",
-    "section": "Python in Practice",
-    "text": "Python in Practice\nIn a previous course, I used Python and SQL to analyze business data, including sales trends and performance. Here is a simple example of using Python to summarize monthly sales:\n\nmonthly_sales = [12500, 14800, 13200, 15600, 17100]\naverage_sales = sum(monthly_sales) / len(monthly_sales)\n\nprint(f\"Average Monthly Sales: ${average_sales:,.2f}\")\n\nAverage Monthly Sales: $14,640.00"
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Selected Projects",
+    "section": "",
+    "text": "PORTFOLIO\n\n\nSelected Projects\nA selection of academic analytics work focused on using data to answer real business questions.\n\n\n\n01\n\n\nLabor Market & Career Analytics\nBig Data & Cloud Analytics · Boston University\nAnalyzed large-scale job posting data to evaluate career pathways, occupational demand, salary trends, and skill requirements.\nThe project combines cloud-based data processing with business interpretation to translate labor-market data into actionable career insights.\n\nPython PySpark SQL AWS Quarto\n\nView Project →\n\n\n\n\n02\n\n\nMonthly Sales Trend Analysis\nPython & SQL for Business Analytics\nUsed SQL and Python to analyze monthly sales performance, identify trends over time, and translate transactional data into business insights.\n\nPython SQL Business Analysis\n\n\n\n\n\n03\n\n\nCloud Data Analytics\nBig Data & Cloud Analytics\nBuilt cloud-based analytics workflows using AWS environments, GitHub, PySpark, and structured datasets while developing experience working with large-scale data.\n\nAWS PySpark Git Quarto\n\n\n\n\n\nThis portfolio will continue to evolve as I complete additional applied analytics work throughout the MS Applied Business Analytics program."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Connecting patient support, healthcare marketing, and analytics.",
     "section": "",
-    "text": "Hi! I’m Mariam El Jouzou, a graduate student in Applied Business Analytics at Boston University with a professional background in marketing.\nI enjoy connecting data to business and understanding how insights can be used to support better decisions and solve real-world challenges. Through my graduate studies, I’m continuing to build my technical and analytical skills and explore new ways to apply data in a business setting."
+    "text": "ABOUT\n\n\n\nI’m Mariam El Jouzou, a marketing professional working in the healthcare and pharmaceutical space, with a focus on patient support initiatives.\nMy current work has given me the opportunity to support complex, cross-functional programs designed to improve the patient experience across the treatment journey. I work closely with cross-functional teams to help bring patient-facing communications and support resources to life.\nBefore moving into healthcare and pharmaceutical marketing, my background was rooted in eCommerce and digital marketing, where I worked across content strategy, SEO, Amazon advertising, digital shelf optimization, and performance-driven growth.\nThat combination of experiences shaped the direction I want to continue building toward: using analytics to strengthen how we understand patients, customers, markets, and business performance.\n\n\n\nI chose Applied Business Analytics because I believe in the power of data to make strategy more informed and marketing more meaningful.\nIn healthcare and patient support, decisions are rarely isolated. They involve understanding behavior, identifying barriers, evaluating engagement, and determining where communication or support can create the most value.\nI want to build the analytical skills that allow me to connect those business and patient questions with data — not only to understand what is happening, but also why it is happening, what it means, and what we should do next.\n\n\n\n\n\n\n＋\n\n\nSupporting patient-facing initiatives across healthcare and pharmaceutical programs.\n\n\n\n◇\n\n\nTranslating complex needs across clients, teams, and stakeholders into clear execution.\n\n\n\n⌁\n\n\nBuilding skills in Python, SQL, PySpark, cloud analytics, machine learning, and statistical analysis.\n\n\n\n\n\n\nI’m especially interested in the intersection of patient experience, pharmaceutical marketing, and analytics.\nFor me, the value of analytics is not simply in producing an output. It is in using evidence to ask better questions, understand people more clearly, and support smarter decisions.\n\n\n\n\nSenior Account Executive\nHealthcare & Pharmaceutical Marketing · Patient Support\nMS Applied Business Analytics Candidate\nBoston University"
+  },
+  {
+    "objectID": "about.html#why-business-analytics",
+    "href": "about.html#why-business-analytics",
+    "title": "Connecting patient support, healthcare marketing, and analytics.",
+    "section": "",
+    "text": "I chose Applied Business Analytics because I believe in the power of data to make strategy more informed and marketing more meaningful.\nIn healthcare and patient support, decisions are rarely isolated. They involve understanding behavior, identifying barriers, evaluating engagement, and determining where communication or support can create the most value.\nI want to build the analytical skills that allow me to connect those business and patient questions with data — not only to understand what is happening, but also why it is happening, what it means, and what we should do next."
+  },
+  {
+    "objectID": "about.html#where-my-experience-comes-together",
+    "href": "about.html#where-my-experience-comes-together",
+    "title": "Connecting patient support, healthcare marketing, and analytics.",
+    "section": "",
+    "text": "＋\n\n\nSupporting patient-facing initiatives across healthcare and pharmaceutical programs.\n\n\n\n◇\n\n\nTranslating complex needs across clients, teams, and stakeholders into clear execution.\n\n\n\n⌁\n\n\nBuilding skills in Python, SQL, PySpark, cloud analytics, machine learning, and statistical analysis."
+  },
+  {
+    "objectID": "about.html#my-perspective",
+    "href": "about.html#my-perspective",
+    "title": "Connecting patient support, healthcare marketing, and analytics.",
+    "section": "",
+    "text": "I’m especially interested in the intersection of patient experience, pharmaceutical marketing, and analytics.\nFor me, the value of analytics is not simply in producing an output. It is in using evidence to ask better questions, understand people more clearly, and support smarter decisions."
+  },
+  {
+    "objectID": "about.html#currently",
+    "href": "about.html#currently",
+    "title": "Connecting patient support, healthcare marketing, and analytics.",
+    "section": "",
+    "text": "Senior Account Executive\nHealthcare & Pharmaceutical Marketing · Patient Support\nMS Applied Business Analytics Candidate\nBoston University"
   }
 ]

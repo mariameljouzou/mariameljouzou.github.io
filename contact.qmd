@@ -1,0 +1,53 @@
+---
+title: ""
+---
+
+<div class="page-shell contact-shell">
+
+<div class="page-eyebrow">CONTACT</div>
+
+# Let’s connect.
+
+I’m always open to connecting with professionals working across analytics, marketing, eCommerce, healthcare, strategy, and related fields.
+
+<div class="contact-grid">
+
+<div class="contact-card">
+
+<div class="contact-icon">in</div>
+
+### LinkedIn
+
+My preferred platform for professional networking.
+
+[Connect on LinkedIn →](https://www.linkedin.com/in/mariam-eljouzou){.project-link}
+
+</div>
+
+<div class="contact-card">
+
+<div class="contact-icon">&lt;/&gt;</div>
+
+### GitHub
+
+Explore my academic and analytics work.
+
+[View GitHub →](https://github.com/mariameljouzou){.project-link}
+
+</div>
+
+<div class="contact-card">
+
+<div class="contact-icon">✉</div>
+
+### Email
+
+For professional inquiries or collaboration.
+
+[Email me →](mailto:maryamjouzou@gmail.com){.project-link}
+
+</div>
+
+</div>
+
+</div>

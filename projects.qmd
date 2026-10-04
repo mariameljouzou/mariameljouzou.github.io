@@ -1,0 +1,76 @@
+---
+title: ""
+---
+
+<div class="page-shell">
+
+<div class="page-eyebrow">PORTFOLIO</div>
+
+# Selected Projects
+
+A selection of academic analytics work focused on using data to answer real business questions.
+
+<div class="project-grid">
+
+<div class="project-card project-featured">
+<div class="project-number">01</div>
+
+### Labor Market & Career Analytics
+
+**Big Data & Cloud Analytics · Boston University**
+
+Analyzed large-scale job posting data to evaluate career pathways, occupational demand, salary trends, and skill requirements.
+
+The project combines cloud-based data processing with business interpretation to translate labor-market data into actionable career insights.
+
+<div class="mini-tags">
+<span>Python</span>
+<span>PySpark</span>
+<span>SQL</span>
+<span>AWS</span>
+<span>Quarto</span>
+</div>
+
+[View Project →](https://jennader.github.io/METAD688_Group2/){.project-link}
+</div>
+
+<div class="project-card">
+<div class="project-number">02</div>
+
+### Monthly Sales Trend Analysis
+
+**Python & SQL for Business Analytics**
+
+Used SQL and Python to analyze monthly sales performance, identify trends over time, and translate transactional data into business insights.
+
+<div class="mini-tags">
+<span>Python</span>
+<span>SQL</span>
+<span>Business Analysis</span>
+</div>
+</div>
+
+<div class="project-card">
+<div class="project-number">03</div>
+
+### Cloud Data Analytics
+
+**Big Data & Cloud Analytics**
+
+Built cloud-based analytics workflows using AWS environments, GitHub, PySpark, and structured datasets while developing experience working with large-scale data.
+
+<div class="mini-tags">
+<span>AWS</span>
+<span>PySpark</span>
+<span>Git</span>
+<span>Quarto</span>
+</div>
+</div>
+
+</div>
+
+<div class="portfolio-note">
+This portfolio will continue to evolve as I complete additional applied analytics work throughout the MS Applied Business Analytics program.
+</div>
+
+</div>

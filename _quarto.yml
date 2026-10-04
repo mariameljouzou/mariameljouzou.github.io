@@ -3,19 +3,37 @@ project:
 
 website:
   title: "Mariam El Jouzou"
+
   navbar:
+    background: light
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mariam-eljouzou
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/mariameljouzou
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 Mariam El Jouzou"
+    right: "Analytics · Marketing · Strategy"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    smooth-scroll: true
+    include-after-body: scroll-progress.html
