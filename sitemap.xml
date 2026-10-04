@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mariameljouzou.github.io/contact.html</loc>
+    <lastmod>2026-10-04T20:28:29.280Z</lastmod>
+  </url>
+  <url>
     <loc>https://mariameljouzou.github.io/index.html</loc>
-    <lastmod>2026-09-08T02:13:18.196Z</lastmod>
+    <lastmod>2026-10-04T20:28:29.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mariameljouzou.github.io/cv.html</loc>
+    <lastmod>2026-10-04T20:28:29.280Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mariameljouzou.github.io/projects.html</loc>
+    <lastmod>2026-10-04T20:28:29.281Z</lastmod>
   </url>
   <url>
     <loc>https://mariameljouzou.github.io/about.html</loc>
-    <lastmod>2026-09-08T02:10:09.483Z</lastmod>
+    <lastmod>2026-10-04T20:28:29.277Z</lastmod>
   </url>
 </urlset>
