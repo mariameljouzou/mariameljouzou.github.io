@@ -167,7 +167,7 @@ h2 {
 
   padding: 6.5rem 2rem 5.5rem;
 
-  position: relative;
+  position: relative; 
   overflow: visible;
 }
 
@@ -175,10 +175,10 @@ h2 {
   display: grid;
 
   grid-template-columns:
-    minmax(0, 1.18fr)
-    minmax(360px, .82fr);
+    minmax(0, 1.3fr)
+    minmax(330px, .7fr);
 
-  gap: 3.5rem;
+  gap: 2.8rem;
 
   align-items: center;
 }
@@ -201,16 +201,11 @@ h2 {
 }
 
 .hero-shell h1 {
-  font-size: clamp(3.8rem, 5.7vw, 6.2rem);
-
+  font-size: clamp(3.3rem, 4.25vw, 5rem);
   line-height: .95;
-
   font-weight: 500;
-
   margin: 0 0 1.8rem;
-
   letter-spacing: -.045em;
-
   white-space: nowrap;
 }
 
@@ -444,6 +439,8 @@ h2 {
   justify-content: center;
 
   isolation: isolate;
+
+  transform: translateX(28px);
 }
 
 .portrait-backdrop {
@@ -1648,7 +1645,33 @@ h2 {
 }
 
 .contact-icon {
-  font-size: .95rem;
+  width: 42px;
+  height: 42px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 1rem;
+
+  border-radius: 12px;
+
+  background: var(--gradient);
+
+  color: var(--violet);
+
+  font-weight: 700;
+  font-size: .9rem;
+
+  line-height: 1;
+}
+
+.contact-icon-linkedin {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: .8rem;
+  line-height: 1;
+  text-transform: lowercase;
 }
 
 .contact-card h3 {
@@ -1760,7 +1783,8 @@ h2 {
   }
 
   .hero-visual {
-    min-height: 500px;
+  min-height: 500px;
+  transform: none;
   }
 
   .portrait-card {
@@ -1868,9 +1892,17 @@ h2 {
   }
 
   .quick-access {
-    gap:
-      .5rem;
-  }
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: .65rem;
+  width: 100%;
+}
+
+.quick-link {
+  justify-content: center;
+  margin: 0;
+  min-height: 46px;
+}
 
   .hero-visual {
     min-height:
