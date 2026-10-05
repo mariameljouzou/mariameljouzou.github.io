@@ -14,7 +14,7 @@ I’m always open to connecting with professionals working across analytics, mar
 
 <div class="contact-card">
 
-<div class="contact-icon">in</div>
+<div class="contact-icon contact-icon-linkedin">in</div>
 
 ### LinkedIn
 

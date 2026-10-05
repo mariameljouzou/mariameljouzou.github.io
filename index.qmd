@@ -32,19 +32,9 @@ MS Applied Business Analytics Candidate · Boston University
 
 <div class="quick-access">
 
-<a href="mailto:maryamjouzou@gmail.com" class="quick-link">
-<span class="quick-icon">✉</span>
-<span>Email</span>
-</a>
-
 <a href="https://www.linkedin.com/in/mariam-eljouzou" target="_blank" class="quick-link">
 <span class="quick-icon">in</span>
 <span>LinkedIn</span>
-</a>
-
-<a href="https://github.com/mariameljouzou" target="_blank" class="quick-link">
-<span class="quick-icon">&lt;/&gt;</span>
-<span>GitHub</span>
 </a>
 
 <a href="contact.qmd" class="quick-link">
