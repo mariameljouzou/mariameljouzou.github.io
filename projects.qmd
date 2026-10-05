@@ -13,15 +13,92 @@ A selection of academic analytics work focused on using data to answer real busi
 <div class="project-grid">
 
 <div class="project-card project-featured">
+
 <div class="project-number">01</div>
 
 ### Labor Market & Career Analytics
 
 **Big Data & Cloud Analytics · Boston University**
 
-Analyzed large-scale job posting data to evaluate career pathways, occupational demand, salary trends, and skill requirements.
+Analyzed large-scale job posting data to evaluate career pathways, occupational demand, salary trends, and skill requirements in the analytics job market.
 
-The project combines cloud-based data processing with business interpretation to translate labor-market data into actionable career insights.
+<div class="project-visual">
+
+<div class="visual-block">
+
+<div class="visual-title">Occupational Distribution</div>
+
+<div class="bar-row">
+<div class="bar-label">Data Scientists</div>
+<div class="bar-track"><div class="bar-fill fill-47"></div></div>
+<div class="bar-value">47.0%</div>
+</div>
+
+<div class="bar-row">
+<div class="bar-label">Database Architects</div>
+<div class="bar-track"><div class="bar-fill fill-34"></div></div>
+<div class="bar-value">34.1%</div>
+</div>
+
+<div class="bar-row">
+<div class="bar-label">Management Analysts</div>
+<div class="bar-track"><div class="bar-fill fill-12"></div></div>
+<div class="bar-value">11.5%</div>
+</div>
+
+<div class="bar-row">
+<div class="bar-label">BI Analysts</div>
+<div class="bar-track"><div class="bar-fill fill-2"></div></div>
+<div class="bar-value">1.7%</div>
+</div>
+
+<div class="bar-row">
+<div class="bar-label">Other</div>
+<div class="bar-track"><div class="bar-fill fill-6"></div></div>
+<div class="bar-value">5.6%</div>
+</div>
+
+</div>
+
+<div class="visual-block">
+
+<div class="visual-title">Median Salary Midpoint by Occupation</div>
+
+<div class="salary-grid">
+
+<div class="salary-item">
+<div class="salary-role">Data Scientist</div>
+<div class="salary-amount">$163,025</div>
+</div>
+
+<div class="salary-item">
+<div class="salary-role">Database Architect</div>
+<div class="salary-amount">$155,450</div>
+</div>
+
+<div class="salary-item">
+<div class="salary-role">Management Analyst</div>
+<div class="salary-amount">$92,500</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="project-insights">
+
+<strong>Key findings:</strong>
+
+<ul>
+<li>Analyzed <strong>287 job postings</strong> in the Computer Systems Design industry.</li>
+<li>Salary information was available for <strong>39%</strong> of postings.</li>
+<li>The overall median salary midpoint identified in the dataset was <strong>$150,708</strong>.</li>
+<li>Data Scientist and Database Architect roles showed the strongest salary potential in the sample.</li>
+</ul>
+
+</div>
 
 <div class="mini-tags">
 <span>Python</span>
@@ -31,26 +108,174 @@ The project combines cloud-based data processing with business interpretation to
 <span>Quarto</span>
 </div>
 
-[View Project →](https://jennader.github.io/METAD688_Group2/){.project-link}
+[View Project →](https://jennader.github.io/METAD688_Group2/){.project-link target="_blank"}
+
 </div>
 
+
 <div class="project-card">
+
 <div class="project-number">02</div>
 
 ### Monthly Sales Trend Analysis
 
 **Python & SQL for Business Analytics**
 
-Used SQL and Python to analyze monthly sales performance, identify trends over time, and translate transactional data into business insights.
+Analyzed Northwind Traders sales data using SQL and Python to calculate monthly revenue, measure month-over-month growth, and identify periods of significant increases and declines.
+
+<div class="project-visual">
+
+<div class="visual-block">
+
+<div class="visual-title">Monthly Sales Trend · Jul 2012–Dec 2013</div>
+
+<div class="trend-chart">
+
+<div class="trend-column">
+<div class="trend-bar" style="height:48%;"></div>
+<div class="trend-month">Jul '12</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:83%;"></div>
+<div class="trend-month">Aug</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:80%;"></div>
+<div class="trend-month">Sep</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:75%;"></div>
+<div class="trend-month">Oct</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:70%;"></div>
+<div class="trend-month">Nov</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:84%;"></div>
+<div class="trend-month">Dec</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:72%;"></div>
+<div class="trend-month">Jan '13</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:69%;"></div>
+<div class="trend-month">Feb</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:81%;"></div>
+<div class="trend-month">Mar</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:76%;"></div>
+<div class="trend-month">Apr</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:84%;"></div>
+<div class="trend-month">May</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:70%;"></div>
+<div class="trend-month">Jun</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar trend-peak" style="height:100%;"></div>
+<div class="trend-month">Jul</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:70%;"></div>
+<div class="trend-month">Aug</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:62%;"></div>
+<div class="trend-month">Sep</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:73%;"></div>
+<div class="trend-month">Oct</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:71%;"></div>
+<div class="trend-month">Nov</div>
+</div>
+
+<div class="trend-column">
+<div class="trend-bar" style="height:75%;"></div>
+<div class="trend-month">Dec</div>
+</div>
+
+</div>
+
+<div class="trend-caption">
+Monthly sales ranged from approximately $2.1M to $4.3M during this period.
+</div>
+
+</div>
+
+<div class="metric-row">
+
+<div class="metric-card">
+<div class="metric-value">+72.14%</div>
+<div class="metric-label">Aug 2012 MoM Growth</div>
+</div>
+
+<div class="metric-card">
+<div class="metric-value">$4.28M</div>
+<div class="metric-label">Jul 2013 Sales</div>
+</div>
+
+<div class="metric-card">
+<div class="metric-value">−30.11%</div>
+<div class="metric-label">Aug 2013 MoM Decline</div>
+</div>
+
+</div>
+
+</div>
+
+<div class="project-insights">
+
+<strong>Key findings:</strong>
+
+<ul>
+<li>Sales fluctuated significantly from month to month rather than following a consistent upward or downward trend.</li>
+<li>August 2012 recorded a <strong>72.14% month-over-month increase</strong>.</li>
+<li>July 2013 reached approximately <strong>$4.28M in monthly sales</strong>, followed by a <strong>30.11% decline</strong> in August.</li>
+<li>The analysis demonstrated how SQL window functions and Python visualization can support forecasting and business planning.</li>
+</ul>
+
+</div>
 
 <div class="mini-tags">
 <span>Python</span>
 <span>SQL</span>
+<span>Pandas</span>
+<span>Matplotlib</span>
 <span>Business Analysis</span>
 </div>
+
 </div>
 
+
 <div class="project-card">
+
 <div class="project-number">03</div>
 
 ### Cloud Data Analytics
@@ -65,12 +290,20 @@ Built cloud-based analytics workflows using AWS environments, GitHub, PySpark, a
 <span>Git</span>
 <span>Quarto</span>
 </div>
-</div>
 
 </div>
 
-<div class="portfolio-note">
-This portfolio will continue to evolve as I complete additional applied analytics work throughout the MS Applied Business Analytics program.
+</div>
+
+
+<div class="portfolio-note portfolio-note-upgraded">
+
+<div class="portfolio-note-icon">✦</div>
+
+<div>
+This portfolio will continue to evolve as I complete additional applied analytics work throughout the MS Applied Business Analytics program. Additional projects will be added to this page as they are completed, and the portfolio will be updated to reflect my current professional and academic direction.
+</div>
+
 </div>
 
 </div>
